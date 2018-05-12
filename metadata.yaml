@@ -1,0 +1,30 @@
+_repo: Dickens-As-an-Educator_37284
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hughes, James L. (James Laughlin)
+    alias: Hughes, James Laughlin
+    birthdate: 1846
+    deathdate: 1935
+    gutenberg_agent_id: '38746'
+    url: http://www.gutenberg.org/2009/agents/38746
+description: ''
+gutenberg_issued: '2011-08-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37284'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Education -- Great Britain -- History -- 19th century'
+- !lcsh 'Didactic fiction, English -- History and criticism'
+- !lcc 'PR'
+- !lcsh 'Dickens, Charles, 1812-1870 -- Knowledge -- Education'
+- !lcsh 'Education in literature'
+title: Dickens As an Educator
+url: http://www.gutenberg.org/ebooks/37284
